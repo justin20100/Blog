@@ -1,4 +1,5 @@
-# Un blog
+# School project at HEPL 🇧🇪
+## Un blog
 
 Votre tâche est de commencer à réaliser un blog alimenté par des fichiers au format *json*, donc sans DB.
 
